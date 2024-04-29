@@ -1,3 +1,4 @@
+name: investors_dash
 services:
   backend:
     build:
